@@ -1,1 +1,7 @@
 /* this is css file */
+body {
+	background-image: url(bridge.jpeg); 
+	background-position: left center; 
+	background-attachment: fixed;
+}
+
